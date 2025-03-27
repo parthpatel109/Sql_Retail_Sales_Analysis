@@ -34,7 +34,7 @@ create table retail_sales (
 	age int,
 	category varchar(15),	
 	quantiy int,
-    price_per_unit float,
+    	price_per_unit float,
 	cogs float,
 	total_sale float
 );
